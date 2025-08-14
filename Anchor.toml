@@ -12,7 +12,7 @@ dca_vault = "AZDprYt6ksZxH1nUFQdSEp84GYu9WpvG68M4oNmscTFF"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
